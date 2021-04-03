@@ -1,9 +1,16 @@
-### Hi there 👋
+### Hello 👋
+
+- 👩‍💻 I'm a developer
+- 👩‍🏫 I create and record courses for [LinkedIn Learning](https://www.linkedin.com/learning/instructors/bethan-palmer)
+- ☕️ I'm a member of the [Java Champions](https://github.com/aalmiray/java-champions)
+- 📫 How to reach me: https://twitter.com/BethanKP
+- 😄 Pronouns: she/her
 
 <!--
 **nahteb/nahteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
