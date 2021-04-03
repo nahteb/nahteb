@@ -3,7 +3,7 @@
 - 👩‍💻 I'm a developer
 - 👩‍🏫 I create and record courses for [LinkedIn Learning](https://www.linkedin.com/learning/instructors/bethan-palmer)
 - ☕️ I'm a member of the [Java Champions](https://github.com/aalmiray/java-champions)
-- 📫 How to reach me: https://twitter.com/BethanKP
+- 📫 Reach me at: https://twitter.com/BethanKP
 - 😄 Pronouns: she/her
 
 <!--
